@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahmedthasbeeh
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Bachelor of Technology in Computer Science
-- 💞️ I’m looking to collaborate on ...
+- 👀 Interested in Computer Science
+- 🌱 Currently pursuing Bachelor of Technology in Computer Science
+- 💞️ Looking to collaborate on ...
 - 📫 How to reach me via instagram @ahmed_thasbeeh
 
 <!---
