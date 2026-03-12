@@ -92,13 +92,13 @@ end
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Thasbeeh/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Thasbeeh&title=-Stars,-Followers&theme=onedark&row=1&column=6&margin-w=20" alt="GitHub Trophies"/>
   </a>
-</p>
+</p> -->
 
 ---
 
