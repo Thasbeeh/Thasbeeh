@@ -49,7 +49,7 @@ Backend-focused Full Stack Developer with **3 years** of hands-on experience bui
   <img src="https://github-readme-stats.vercel.app/api?username=Thasbeeh&show_icons=true&theme=dark" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thasbeeh&show_icons=true&theme=dark" alt="GitHub Streak" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thasbeeh&theme=dark&langs_count=4" alt="Top Languages" height="165" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=Thasbeeh&limit=3&theme=dark&combine_all_yearly_contributions=true" alt="Contributor Stats" height="165" />
+  <!-- <img src="https://github-contributor-stats.vercel.app/api?username=Thasbeeh&limit=3&theme=dark&combine_all_yearly_contributions=true" alt="Contributor Stats" height="165" /> -->
 </p>
 
 ---
