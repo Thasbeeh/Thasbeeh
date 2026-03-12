@@ -1,12 +1,11 @@
 # 👋 Hey there, I'm Thasbeeh!
 
-## 💻 Full Stack Developer | 💎 Ruby on Rails Enthusiast | 💡 Lifelong Learner
-Full Stack Developer with **3 years** of hands-on experience building scalable, production-grade web applications. Specialized in **Ruby on Rails** with expertise in modern frontend frameworks. Passionate about writing clean, testable code and delivering business value through technology.
+## 💻 Backend Developer | ⚙️ Node.js / NestJS | ⚙️ Ruby on Rails
+Backend-focused Full Stack Developer with **3 years** of hands-on experience building scalable, production-grade web applications. Specialized in **Node.js, NestJS, Ruby on Rails** with expertise in modern frontend frameworks. Passionate about writing clean, testable code and delivering business value through technology.
 
 ✨ Recent Work: **ReactOnRails: Chat Application** – 🔗 [Try it live](https://react-on-rails-7y0y.onrender.com)
 
-**📍 From Kerala, India | 🎯 Living in Dubai, UAE** <br />
-🔍 **Currently seeking Ruby on Rails Developer roles in Dubai, UAE**
+🔍 **Currently seeking Node.js / NestJS Developer roleS**
 
 ---
 
@@ -66,24 +65,27 @@ Full Stack Developer with **3 years** of hands-on experience building scalable, 
 ```ruby
 class Thasbeeh < Developer
   def initialize
-    @role = "Full Stack Ruby on Rails Developer"
-    @location = "Open to Dubai, UAE"
+    @role = "Backend Developer"
     @experience = "3 years"
-    @focus = ["Rails", "React", "API Design", "Performance Optimization"]
+    @focus = ["Node.js", "NestJS", "Ruby on Rails", "React", "API Design", "System Design"]
   end
 
   def skills
-    {
-      backend: ["Ruby on Rails", "RESTful APIs", "PostgreSQL", "Redis"],
-      frontend: ["React", "Hotwire/Turbo", "JavaScript", "Tailwind CSS"],
-      tools: ["Docker", "Git", "CI/CD", "Agile/Scrum"],
-      testing: ["RSpec", "Capybara", "TDD/BDD"],
-      learning: ["Go", "GraphQL", "Microservices"]
-    }
-  end
+  {
+    backend: ["Node.js", "NestJS", "Ruby on Rails", "RESTful APIs"],
+    databases: ["PostgreSQL", "MySQL"],
+    orm: ["Prisma", "ActiveRecord"],
+    frontend: ["JavaScript", "jQuery"],
+    testing: ["Jest", "RSpec", "BDD"],
+    tools: ["Git", "Postman", "New Relic"],
+    cloud: ["Azure Blob Storage"],
+    performance: ["Redis Caching"],
+    learning: ["System Design", "Scalable Backend Architecture"]
+  }
+end
 
   def current_status
-    "🔍 Actively seeking Ruby on Rails opportunities in Dubai, UAE"
+    "🔍 Actively seeking opportunities"
   end
 end
 ```
