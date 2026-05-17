@@ -3,7 +3,7 @@
 ## 💻 Backend Developer | ⚙️ Node.js / NestJS | ⚙️ Ruby on Rails
 Backend-focused Full Stack Developer with **3 years** of hands-on experience building scalable, production-grade web applications. Specialized in **Node.js, NestJS, Ruby on Rails** with expertise in modern frontend frameworks. Passionate about writing clean, testable code and delivering business value through technology.
 
-✨ Recent Work: **ReactOnRails: Chat Application** – 🔗 [Try it live](https://react-on-rails-7y0y.onrender.com)
+✨ Recent Work: **Netflix GPT - AI-Powered Movie Search & Recommendations** – 🔗 [Try it live](https://netflix-gpt-fe.vercel.app/)
 
 🔍 **Currently seeking Node.js / NestJS Developer roleS**
 
