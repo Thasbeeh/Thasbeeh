@@ -5,7 +5,7 @@ Backend-focused Full Stack Developer with **3 years** of hands-on experience bui
 
 ✨ Recent Work: **Netflix GPT - AI-Powered Movie Search & Recommendations** – 🔗 [Try it live](https://netflix-gpt-fe.vercel.app/)
 
-🔍 **Currently seeking Node.js / NestJS Developer roleS**
+🔍 **Currently seeking Node.js / NestJS Developer role**
 
 ---
 
